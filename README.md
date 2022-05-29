@@ -6,7 +6,7 @@
 
 ## 📋  Sobre
 
-    Projeto blog Água Limpa, realizado pela equipe Active Cloud, do terceiro periodo ADS/SI Noite da FICR.
+    Projeto blog Água Limpa realizado pela equipe Active Cloud, do terceiro periodo ADS/SI Noite da FICR.
  
 
 ----------
