@@ -7,6 +7,7 @@
 ## 📋  Sobre
 
     Projeto blog Água Limpa realizado pela equipe Active Cloud, do terceiro periodo ADS/SI Noite da FICR.
+    O blog visa Assegurar a disponibilidade e gestão sustentável da água e saneamento para todas e todos. Contendo informações, notícias e denúncias feitas pela população do Recife e estado de Pernambuco.
  
 
 ----------
