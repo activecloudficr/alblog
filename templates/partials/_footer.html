@@ -1,0 +1,22 @@
+{% load static %}
+<footer class="bg-primary text-light static-bottom">
+    <div class="container navbar-dark pt-4 mt-5">
+        
+        <div class="row">
+            <div class="col">
+                <p class="text-left">Active Cloud</p>
+            </div>
+            <div class="col">
+                {% for categoria in categorias %}
+                    <a class="text-white" href="{% url 'post_categoria' categoria %}"><p class="text-right">{{ categoria }}</p></a>
+                {% endfor %}
+            </div>
+        </div>
+                        
+                
+    </div>
+</footer>
+<!--/_footer.html-->
+
+<script src="{% static 'vendor/jquery/jquery.slim.min.js' %}"></script>
+<script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
