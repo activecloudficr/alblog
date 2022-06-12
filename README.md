@@ -14,8 +14,6 @@ O blog visa Assegurar a disponibilidade e gestão sustentável da água e saneam
 
 ## 🚀  Tecnologias utilizadas
 
-    O projeto foi desenvolvido utilizando as seguintes tecnologias
-
 -   [Python](https://www.python.org/)
 -   [Django](https://www.djangoproject.com/)
 -   [Heroku](https://www.heroku.com/)
